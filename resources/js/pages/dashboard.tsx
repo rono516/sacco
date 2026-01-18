@@ -125,7 +125,7 @@ export default function Dashboard({ user, flash, totalDeposits, totalReceived, t
                         <div className="overflow-x-auto">
                             <table className="min-w-full table-auto border">
                                 <thead>
-                                    <tr className="bg-gray-100 text-left">
+                                    <tr className=" text-left">
                                         <th className="px-4 py-2">Type</th>
                                         <th className="px-4 py-2">Amount</th>
                                         <th className="px-4 py-2">From</th>
